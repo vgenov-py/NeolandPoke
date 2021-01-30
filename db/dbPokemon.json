@@ -1,0 +1,5 @@
+[
+    { "id": "3", "name": "Squirtle", "type": "water" },
+    { "id": "4", "name": "Charmander", "type": "fire" },
+    { "id": "9", "name": "Pikachu", "type": "Electric" }
+]
